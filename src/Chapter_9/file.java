@@ -15,6 +15,7 @@ public class file {
         while((len = bis.read(bytes)) != -1){
             bos.write(bytes, 0, len);
         }
+        System.out.println("代码被修改啦");
         
         bis.close();
         bos.close();
