@@ -16,6 +16,7 @@ public class file {
             bos.write(bytes, 0, len);
         }
         System.out.println("代码被修改啦");
+        System.out.println("代码又被修改啦");
         
         bis.close();
         bos.close();
