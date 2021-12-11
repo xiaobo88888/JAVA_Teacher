@@ -20,6 +20,8 @@ public class file {
         System.out.println("代码在hot-fix分支修改啦");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
+        System.out.println("pull test");
         
         bis.close();
         bos.close();
