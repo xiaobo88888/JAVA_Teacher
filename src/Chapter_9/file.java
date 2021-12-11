@@ -18,6 +18,7 @@ public class file {
         System.out.println("代码被修改啦");
         System.out.println("代码又被修改啦");
         System.out.println("代码在hot-fix分支修改啦");
+        System.out.println("hot-fix test");
         
         bis.close();
         bos.close();
